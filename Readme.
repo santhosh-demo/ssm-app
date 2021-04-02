@@ -2,3 +2,5 @@ ssm-app
 1.java based application 
 2.jenkinsfile
 3.Dockerfile
+4.pom.xml
+5.azure-pipeline
